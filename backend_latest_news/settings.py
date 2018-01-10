@@ -25,7 +25,7 @@ SECRET_KEY = 'c_mls706-vq0#i*$-*@qor%p7gg+#eye@w^6@p0o7uxy*cz=iu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = []
 
 
 # Application definition
